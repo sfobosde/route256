@@ -4,6 +4,7 @@
 	{
 		static void Main(string[] args)
 		{
+			// Морской бой.
 			using var input = new StreamReader(Console.OpenStandardInput());
 			using var output = new StreamWriter(Console.OpenStandardOutput());
 
